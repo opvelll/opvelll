@@ -1,17 +1,26 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
 
-あけおめ🎉
-<!--
-**opvelll/opvelll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a hobbyist programmer from Japan 🇯🇵, passionate about tech and creating cool projects in my free time. I use AI tools to help write English content and explore innovative development techniques.
 
-Here are some ideas to get you started:
+### 🚀 What I'm Interested In
+- **AI-Powered Development**  
+  I love using AI to boost my workflow. Recently, I'm amazed by **GitHub Copilot** in VS Code. I also created a custom node for **ComfyUI**:  
+  [🔗 ComfyUI_TextListProduct](https://github.com/opvelll/ComfyUI_TextListProduct)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Building for Social Impact**  
+  I'm developing a site where users can **propose and edit political opinions** to foster social change.
+
+- **Game Development**  
+  I'm currently working on an **indie pixel art game** and experimenting with **Unity Visual Scripting** to bring my ideas to life.
+
+- **Web Development & Chrome Extensions**  
+  I built a Chrome extension using the **ChatGPT API** with a React-based web UI:  
+  [🔗 SidepanelLLM](https://github.com/opvelll/SidepanelLLM)
+
+### 🏗️ What I Do Now
+Currently, I work part-time as a **traffic control security guard** while diving into personal tech projects.
+
+---
+Let's collaborate or chat about exciting projects! 😁
+
+
