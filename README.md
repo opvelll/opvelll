@@ -15,7 +15,7 @@ Hi! I'm a hobbyist programmer from Japan 🇯🇵, passionate about tech and cre
 
 - **Web Development & Chrome Extensions**  
   I built a Chrome extension using the **ChatGPT API** with a React-based web UI:  
-  [🔗 SidepanelLLM](https://github.com/opvelll/SidepanelLLM)
+  [🔗 SidepanelLLM2](https://github.com/opvelll/chrome_ai_extension_SidepanelLLM2)
 
 ### 🏗️ What I Do Now
 Currently, I work part-time as a **traffic control security guard** while diving into personal tech projects.
